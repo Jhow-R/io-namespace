@@ -1,0 +1,14 @@
+C:\Users\reboucaJ\Source\repos\Course\Course\bin\Debug\Course.exe.config
+C:\Users\reboucaJ\Source\repos\Course\Course\bin\Debug\Course.exe
+C:\Users\reboucaJ\Source\repos\Course\Course\bin\Debug\Course.pdb
+C:\Users\reboucaJ\Source\repos\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\reboucaJ\Source\repos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\reboucaJ\Source\repos\Course\Course\obj\Debug\Course.exe
+C:\Users\reboucaJ\Source\repos\Course\Course\obj\Debug\Course.pdb
+C:\Users\reboucaJ\Source\C# Udemy\Course\Course\bin\Debug\Course.exe.config
+C:\Users\reboucaJ\Source\C# Udemy\Course\Course\bin\Debug\Course.exe
+C:\Users\reboucaJ\Source\C# Udemy\Course\Course\bin\Debug\Course.pdb
+C:\Users\reboucaJ\Source\C# Udemy\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\reboucaJ\Source\C# Udemy\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\reboucaJ\Source\C# Udemy\Course\Course\obj\Debug\Course.exe
+C:\Users\reboucaJ\Source\C# Udemy\Course\Course\obj\Debug\Course.pdb
